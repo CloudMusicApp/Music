@@ -8,29 +8,7 @@ What if youtube was designed to be used as music player?
 This repository is an implementation of Echoes Player with Angular (2nd genration)- It's still a work in progress aimed at learning and experimenting Angular (2nd generation).
 
 
-It can be regarded as the Media Player experience for youtube listening pleasure.
 
-<p align="center">
-  <a href="http://echoesplayer.com" target="_blank">
-    <img src="https://user-images.githubusercontent.com/878660/53698116-72b76d80-3da6-11e9-82be-f185c1951cf9.png" alt="Webpack, Angular, ngrx, bootstrap" width="75%"/>
-  </a>
-</p>
-
-
-
-  <a href="https://orizens.com" target="_blank">
-    <img src="https://cloud.githubusercontent.com/assets/878660/23353771/d0adbd12-fcd6-11e6-96be-7a236f8819d9.png" alt="Webpack and Angular" width="20%"/>
-  </a>
-
-# Tech Stack
-
-## Included @ngrx solutions:
-
-* [ngrx/store](https://github.com/ngrx/platform/blob/master/docs/store/README.md) - State Management a la "[Redux](https://github.com/reactjs/redux)" based on RxJs
-* [ngrx/effects](https://github.com/ngrx/platform/blob/master/docs/effects/README.md) - Side Effects layer for ngrx/store
-* ~[ngrx/router-store](https://github.com/ngrx/platform/blob/master/docs/router-store/README.md) - Bindings to connect the Angular Router to @ngrx/store~
-* [ngrx-store-localstorage](https://github.com/btroncone/ngrx-store-localstorage) - local sotrage support for ngrx/store
-* [ngrx/store-devtools](https://github.com/ngrx/platform/blob/master/docs/store-devtools/README.md) - a connector to [redux devtool](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en-US) for chrome
 
 ## Included Technologies & Libraries
 
